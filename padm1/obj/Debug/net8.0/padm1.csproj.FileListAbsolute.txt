@@ -1,0 +1,14 @@
+/home/tradeckm/RiderProjects/padm1/bin/Debug/net8.0/padm1
+/home/tradeckm/RiderProjects/padm1/bin/Debug/net8.0/padm1.deps.json
+/home/tradeckm/RiderProjects/padm1/bin/Debug/net8.0/padm1.runtimeconfig.json
+/home/tradeckm/RiderProjects/padm1/bin/Debug/net8.0/padm1.dll
+/home/tradeckm/RiderProjects/padm1/bin/Debug/net8.0/padm1.pdb
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.GeneratedMSBuildEditorConfig.editorconfig
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.AssemblyInfoInputs.cache
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.AssemblyInfo.cs
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.csproj.CoreCompileInputs.cache
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.dll
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/refint/padm1.dll
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.pdb
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/padm1.genruntimeconfig.cache
+/home/tradeckm/RiderProjects/padm1/obj/Debug/net8.0/ref/padm1.dll
