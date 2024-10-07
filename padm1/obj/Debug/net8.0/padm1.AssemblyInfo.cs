@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("padm1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d6f5becdfe69c36d5ee1420ed701d990a8dd024")]
 [assembly: System.Reflection.AssemblyProductAttribute("padm1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("padm1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

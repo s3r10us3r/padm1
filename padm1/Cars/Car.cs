@@ -12,4 +12,9 @@ public class Car
         Hp = hp;
         Color = color;
     }
+
+    public void Honk()
+    {
+        Console.WriteLine("Honk honk!");
+    }
 }

@@ -2,9 +2,9 @@ namespace padm1;
 
 public class CarBuilder
 {
-    private string _brand;
-    private int _hp;
-    private string _color;
+    protected string _brand;
+    protected int _hp;
+    protected string _color;
 
     public CarBuilder SetBrand(string brand)
     {
@@ -24,7 +24,7 @@ public class CarBuilder
         return this;
     }
 
-    public Car Build()
+    public virtual Car Build()
     {
         return new Car(_brand, _hp, _color);
     }
